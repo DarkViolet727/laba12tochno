@@ -41,6 +41,6 @@ public class Tester {
     }
 
     public static void printTesterInfo(Tester tester) {
-        System.out.println("Tester Info: " + tester.name + " " + tester.surname);
+        System.out.println("Tester Info: " + tester.name + "f " + tester.surname);
     }
 }
